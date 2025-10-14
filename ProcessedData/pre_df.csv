@@ -1,3 +1,5 @@
-index,timestamp,gender,age,weekly_sport_exercise,weekly_strength_training,current_fitness_level,current_strength_level,current_tiredness_level,used_cable_machine_before,used_hmd_before,hmd_motion_sickness_details
-0,2025-10-09 15:42:53.110,Male,21-23,0.0,0.0,3,2,4,True,True,"No, i am a VR beast"
-1,2025-10-09 15:52:44.958,Male,18-20,0.0,0.0,2,2,6,False,True,No
+index,timestamp,gender,age,weekly_sport_exercise,weekly_strength_training,current_fitness_level,current_strength_level,current_tiredness_level,used_cable_machine_before,used_hmd_before,hmd_motion_sickness_details,name
+0,2025-10-09 15:42:53.110,Male,21-23,0,0,3,2,4,True,True,"No, i am a VR beast",Charles
+1,2025-10-09 15:52:44.958,Male,18-20,0,0,2,2,6,False,True,No,Eason
+2,2025-10-13 15:51:56.351,Male,21-23,5+,>2 hours,5,5,4,True,True,No,Gallon
+3,2025-10-13 16:36:27.492,Male,21-23,2-5,>2 hours,4,5,3,True,True,Basically had no sickness,Joshua Tan
