@@ -8,3 +8,9 @@ index,timestamp,gender,age,weekly_sport_exercise,weekly_strength_training,curren
 6,2025-10-15 15:39:29.553,Male,18-20,0-1,1-15 minutes,5,5,6,True,True,,John M
 7,2025-10-15 16:18:15.793,Male,21-23,2-5,1-2 hours,4,4,4,True,True,Slight motion sickness occasionally.,Stephen Fang
 8,2025-10-16 14:18:06.713,Male,24-26,5+,>2 hours,6,5,4,True,True,,Jacob Sun
+9,2025-10-21 12:35:17.295,Male,24-26,5+,>2 hours,7,3,6,True,False,,Steven
+10,2025-10-21 13:08:30.463,Female,21-23,0,0,2,1,2,True,True,,Amanda Lowe
+11,2025-10-21 14:28:03.562,Male,21-23,1-2,1-2 hours,5,5,5,True,True,no,yifeng pan
+12,2025-10-21 15:11:20.152,Male,21-23,2-5,31-60 minutes,5,5,2,True,False,no,Raymond
+13,2025-10-22 13:44:52.181,Male,21-23,2-5,1-2 hours,5,5,7,True,True,,Aidan
+14,2025-10-22 14:44:11.162,Male,21-23,2-5,>2 hours,4,5,6,True,False,,Owen Li
